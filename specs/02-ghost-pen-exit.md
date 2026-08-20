@@ -1,6 +1,6 @@
 # SPEC 02 — Salida escalonada de los fantasmas de la pen
 
-> **Status:** implementado
+> **Status:** aprobado
 > **Depends on:** SPEC 01
 > **Date:** 2026-08-19
 > **Objective:** Implementar la salida escalonada de los 4 fantasmas de la pen con timing clásico de Pac-Man (Blinky primero, otros en intervalos de ~3-4 segundos).
